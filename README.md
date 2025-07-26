@@ -40,8 +40,6 @@ My first step into machine learning experiments.
 ## 🎯 Fun Facts
 
 - 🧭 I love unplanned travel and discovering new perspectives  
-- 💬 I enjoy helping juniors at college navigate tech confusion  
-- 🛠️ I build first, fail fast, and learn faster  
 - 🤖 I enjoy turning “what ifs” into small experiments
 
 ---
