@@ -47,8 +47,6 @@ My first step into machine learning experiments.
 ## 📈 GitHub Stats
 
 ![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarp-c&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagarp-c&layout=compact&theme=tokyonight)
-
 ---
 
 > “Every expert was once a beginner. Keep learning. Keep sharing.” 🌱
