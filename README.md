@@ -16,7 +16,7 @@ Through side projects, videos, and open-source tinkering, I explore the computer
 
 ## ⚒️ What I'm Working On Now
 
-- 📱 Building useful tools for students and travelers  
+- 📱 Building simple, meaningful tools to solve everyday problems
 - 📚 Making content to help engineering aspirants in Kerala  
 - 🔍 Exploring basics of AI, security, Web3, and product thinking (step by step!)
 
