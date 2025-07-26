@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Sagar P
 
 🎓 BTech CSE Student at GEC Thrissur  
-🎥 Building **Czernode** — a channel for Kerala engineering aspirants & tech explorers  
+🎥 Building **Czernode** — a youtube channel for Kerala engineering aspirants & tech explorers  
 🌱 Always learning. Always sharing.
 
 ---
