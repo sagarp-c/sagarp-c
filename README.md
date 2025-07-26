@@ -31,7 +31,7 @@ My first step into machine learning experiments.
 
 ## 🔗 Find Me Online
 
-[![YouTube](https://img.shields.io/badge/Czernode-FF0000-Subscribe?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@czernode)  
+[![YouTube](https://img.shields.io/badge/Czernode-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@czernode)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sagarp--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagarp-/)  
 [![Email](https://img.shields.io/badge/Email-sagarp.cvr@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sagarp.cvr@gmail.com)
 
