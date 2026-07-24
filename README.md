@@ -1,103 +1,149 @@
-# 👋 Hey, I'm Sagar P
+# Hi, I'm Sagar P 👋
 
-🎓 BTech CSE Student at GEC Thrissur  
-🎥 Building **Czernode** — a youtube channel for Kerala engineering aspirants & tech explorers  
-🌱 Always learning. Always sharing.
+**Computer Science Undergraduate @ Government Engineering College, Thrissur**
 
----
-
-## 🌍 Who Am I?
-
-I'm a student who believes learning should be fun and accessible.  
-Through small experiments, open-source tinkering, and content creation, I explore the computer world one byte at a time.
+I enjoy building software that solves practical problems across backend engineering, mobile development, and applied AI. I'm particularly interested in scalable backend systems, developer tools, and AI-powered applications.
 
 ---
 
-## ⚒️ What I'm Working On
+## 🚀 What I'm Doing
 
-- 📱 Making simple, meaningful tools to solve everyday problems  
-- 📚 Creating content for Kerala engineering aspirants  
-- 🔍 Exploring AI, security, Web3, and product thinking—step by step!
-
----
-
-## 💡 Featured Project
-
-🔢 [Devanagari Digit Classifier](https://github.com/sagarp-c/devanagari_digit_classifier)  
-A simple deep learning model that recognizes handwritten Devanagari digits.  
-My first step into machine learning experiments.
+- 💻 Building full-stack software with modern development practices
+- 🧠 Solving Data Structures & Algorithms for software engineering interviews
+- 📖 Learning system design, backend architecture, and distributed systems
+- 🌱 Exploring practical applications of AI beyond proof-of-concept projects
 
 ---
 
-## 🔗 Find Me Online
+## 💼 Experience
 
-[![YouTube](https://img.shields.io/badge/Czernode-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@czernode)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagarp--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagarp-/)  
-[![Email](https://img.shields.io/badge/Email-sagarp.cvr@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sagarp.cvr@gmail.com)
+### Software Development Intern
+**Exalture Software Labs Pvt. Ltd.** *(May 2026 – June 2026)*
+
+- Contributed to the development of a production-oriented software product using Agile practices.
+- Worked on system architecture and database design.
+- Coordinated development tasks and communication across the internship team.
 
 ---
 
-## 🎯 Fun Facts
+## 📌 Selected Projects
 
-- 🧭 I love unplanned travel and discovering new perspectives  
-- 🤖 I enjoy turning “what ifs” into tiny tech experiments
+### 🚀 CCWPrep
+KTU exam preparation platform designed to make revision more efficient.
+
+**Highlights**
+
+- Interactive mock exams
+- Flashcards
+- Previous year question bank
+- Firebase Authentication
+- Performance analytics
+
+**Tech**
+
+`HTML` `CSS` `JavaScript` `Firebase` `Vercel`
+
+---
+
+### 🔒 BlindFold
+
+Privacy-focused AI forensic tool developed during a 48-hour IEEE Hackathon.
+
+Features include:
+
+- AI face matching
+- NSFW detection
+- Secure evidence processing
+- Cryptographic audit logging
+
+**Tech**
+
+`Python` `InsightFace` `TensorRT` `SQLite`
+
+---
+
+### 📱 CivilSupply Connect
+
+Flutter application for Kerala SupplyCo enabling users to discover nearby ration shops, monitor stock availability, and receive notifications.
+
+**Tech**
+
+`Flutter` `Supabase` `PostgreSQL` `Firebase`
+
+---
+
+### 🧠 Handwritten Devanagari Digit Classifier
+
+Deep learning model for recognizing handwritten Devanagari digits using Convolutional Neural Networks.
+
+**Tech**
+
+`Python` `TensorFlow` `Keras`
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+
+### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagarp-c&show_icons=true&theme=tokyonight)
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sagarp-c&show_icons=true&theme=tokyonight"/>
 
-### 🛠️ Tech Toolkit
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarp-c&layout=compact&theme=tokyonight"/>
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C Language"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sagarp-c&theme=tokyonight"/>
+
 </p>
 
 ---
 
+## 🌐 Connect
 
-> “Every expert was once a beginner. Keep learning. Keep sharing.” 🌱
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagarp--blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagarp-/)
+
+[![YouTube](https://img.shields.io/badge/Czernode-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@czernode)
+
+[![Email](https://img.shields.io/badge/Email-sagarp.cvr@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sagarp.cvr@gmail.com)
+
+---
+
+> *Always learning. Always building.*
