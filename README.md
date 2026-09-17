@@ -146,4 +146,4 @@ Deep learning model for recognizing handwritten Devanagari digits using Convolut
 
 ---
 
-> *Always learning. Always building.*
+> *Always learning. Always building.!*
