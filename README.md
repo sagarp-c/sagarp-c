@@ -29,6 +29,7 @@ I enjoy building software that solves practical problems across backend engineer
 • Participated in system design, requirements analysis, debugging, and technical problem-solving while working with a real-world product team.
 
 • Gained hands-on experience with Git-based collaboration, software development workflows, documentation, and production-oriented engineering practices.
+
 ---
 
 ## 📌 Selected Projects
