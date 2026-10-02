@@ -20,10 +20,15 @@ I enjoy building software that solves practical problems across backend engineer
 ### Software Development Intern
 **Exalture Software Labs Pvt. Ltd.** *(May 2026 – June 2026)*
 
-- Contributed to the development of a production-oriented software product using Agile practices.
-- Worked on system architecture and database design.
-- Coordinated development tasks and communication across the internship team.
+• Served as Team Lead for a 4-member intern team, coordinating tasks, facilitating technical discussions, communicating with mentors, and ensuring effective collaboration.
 
+• Contributed to a configurable multi-tenant queue management SaaS platform designed for healthcare, recruitment, and other service-based workflows.
+
+• Worked across backend, web, and mobile development, contributing to APIs, database architecture, authentication, and role-based workflows.
+
+• Participated in system design, requirements analysis, debugging, and technical problem-solving while working with a real-world product team.
+
+• Gained hands-on experience with Git-based collaboration, software development workflows, documentation, and production-oriented engineering practices.
 ---
 
 ## 📌 Selected Projects
